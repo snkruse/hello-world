@@ -8,7 +8,7 @@ public class HelloWorld {
 
 	      // Invoking methods for each object created
 	      empOne.empAge(26);
-	      empOne.empDesignation("Senior Software Engineer");
+	      empOne.empDesignation("Senior Software Engineer!! WOop WOOp");
 	      empOne.empSalary(1000);
 	      empOne.printEmployee();
 	      System.out.println();
